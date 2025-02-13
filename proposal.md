@@ -104,7 +104,6 @@ We welcome all contributions to this project! To contribute:
 All contributors must adhere to our Code of Conduct.
 
 
-## 5. Start developing your app
 
 
 
