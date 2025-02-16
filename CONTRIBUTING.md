@@ -10,6 +10,11 @@ If you find a bug, have a question, or want to request a new feature, please ope
 ## 2. Submitting Changes
 
 ## 1. Fork the repository to your GitHub account.
+
+- Go to the original repository on GitHub.
+- Click the "Fork" button at the top-right corner.
+- Choose your GitHub account to create a copy of the repository in your own account.
+
 ## 2. Clone your fork to your local machine.
    
 ``` git clone https://github.com/your-username/repo-name.git```
