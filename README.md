@@ -1,33 +1,24 @@
-#Description of the App & Sketch
+# Breast Cancer Diagnosis Dashboard
 
-## High-Level Description
+📜 Breast Cancer Diagnosis Dashboard
+Our interactive Breast Cancer Diagnosis Dashboard helps users explore tumor characteristics and understand their impact on malignancy predictions. The dashboard includes interactive visualizations and machine learning predictions to assist researchers, students, and healthcare professionals in analyzing breast cancer data.
 
-Our interactive dashboard will provide an intuitive and user-friendly interface for exploring the dataset. The key functionalities of the app will include:
+🖥️ Dashboard Layout & Features
+🔹 Left Panel: Feature Sliders
 
-## Data Overview Panel:
+Each tumor feature (e.g., mean radius, mean texture) has a slider to adjust values dynamically.
+Adjusting the sliders updates the radar chart in real-time.
+🔹 Center Panel: Radar Chart (Spider Plot)
 
-A summary of the dataset, including basic statistics and a data table.
+Displays selected tumor features as a radar chart.
+Updates dynamically based on slider inputs.
+🔹 Right Panel: Prediction Output
 
-## Feature Exploration Panel:
+Shows probability of malignancy based on input feature values.
+Provides an easy-to-understand numeric output.
+🔹 Lower Section: Feature Importance & Distribution Analysis
 
- Users can select features and visualize their distributions using histograms, scatter    
- plots, and box plots.
- 
-## Correlation Heatmap:
-
- A heatmap displaying feature correlations to identify relationships between different variables.
-
-## Classification Model Visualization:
-
- A section that presents the results of a predictive model (e.g., logistic regression or random forest) to help users understand feature importance.
-
-## Interactive Controls:
-
- Dropdowns, sliders, and checkboxes to filter and customize visualizations.
-
-
-## Sketch
-
-The following sketch represents the planned layout of our dashboard:
-
-The sketch provides a visual representation of the interface layout, including panel organization and interactive elements.
+Feature Importance Chart: Displays the most influential tumor features for prediction.
+Dropdown Menu: Allows users to select a specific feature.
+Feature Distribution Plot: Visualizes the distribution of the selected feature.
+Bar Chart: Shows the average measurement of selected tumor features.
